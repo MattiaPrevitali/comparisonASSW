@@ -1,0 +1,19 @@
+Trascritti: ENST00000383036 e ENST00000215479
+
+ASGAL:
+
+Type,	Start,		End,		Support,	Transcripts
+ES,	6868777,	6870005,	617,		ENST00000383036
+Type,	Start,		End,		Support,	Transcripts
+ES,	6868777,	6870005,	335,		ENST00000383036
+
+SPLADDER:
+
+contig	strand	event_id	gene_name	exon_pre_start	exon_pre_end	exon_start	exon_end	exon_aft_start	exon_aft_end	Aligned.sortedByCoord.out:exon_pre_cov	Aligned.sortedByCoord.out:exon_cov	Aligned.sortedByCoord.out:exon_aft_cov	Aligned.sortedByCoord.out:intron_pre_conf	Aligned.sortedByCoord.out:intron_aft_conf	Aligned.sortedByCoord.out:intron_skip_conf	Aligned.sortedByCoord.out:psi
+Y	-	exon_skip_1	ENSG00000099721	6868732		6868776		6868868		6868909		6870006		6870053	1021.2	606.5	849.2	591	546	433	0.56
+
+RMATS:
+
+ID	GeneID	geneSymbol	chr	strand	exonStart_0base	exonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000099721"	"AMELY"	chrY	-	6868867	6868909	6868731	6868776	6870005	6870053
+

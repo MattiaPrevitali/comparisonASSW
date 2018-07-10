@@ -1,0 +1,22 @@
+Trascritti: ENST00000383008 e ENST00000426950
+
+ASGAL:
+
+Type,Start,End,Support,Transcripts
+A3,9339186,9339291,446,ENST00000383008
+Type,Start,End,Support,Transcripts
+A3,9339186,9339291,860,ENST00000383008
+Type,Start,End,Support,Transcripts
+A3,9339186,9339280,708,ENST00000426950
+Type,Start,End,Support,Transcripts
+A3,9339186,9339280,347,ENST00000426950
+
+SPLADDER:
+
+contig	strand	event_id	gene_name	exon_const_start	exon_const_end	exon_alt1_start	exon_alt1_end	exon_alt2_start	exon_alt2_end	Aligned.sortedByCoord.out:exon_diff_cov	Aligned.sortedByCoord.out:exon_const_cov	Aligned.sortedByCoord.out:intron1_conf	Aligned.sortedByCoord.out:intron2_conf	Aligned.sortedByCoord.out:psi
+Y	+	alt_3prime_1	ENSG00000233803	9339040	9339185	9339292	9339373	9339281	9339373	573.1	1102.9	561	549	0.51
+
+RMATS:
+
+ID	GeneID	geneSymbol	chr	strand	longExonStart_0base	longExonEnd	shortES	shortEE	flankingES	flankingEE
+0	"ENSG00000233803"	"TSPY4"	chrY	+	9339280	9339373	9339291	9339373	9339039	9339185

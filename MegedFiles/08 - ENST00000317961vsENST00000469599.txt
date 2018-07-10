@@ -1,0 +1,24 @@
+Trascritti: ENST00000317961 e ENST00000469599
+
+ASGAL:
+
+Type,Start,End,Support,Transcripts
+A3,19709810,19710375,89,ENST00000469599
+IR,19706641,19706793,168,ENST00000469599
+Type,Start,End,Support,Transcripts
+A3,19709810,19710375,51,ENST00000469599
+IR,19706641,19706793,104,ENST00000469599
+
+SPLADDER:
+
+contig	strand	event_id	gene_name	exon_const_start	exon_const_end	exon_alt1_start	exon_alt1_end	exon_alt2_start	exon_alt2_end	Aligned.sortedByCoord.out:exon_diff_cov	Aligned.sortedByCoord.out:exon_const_cov	Aligned.sortedByCoord.out:intron1_conf	Aligned.sortedByCoord.out:intron2_conf	Aligned.sortedByCoord.out:psi
+Y	-	alt_3prime_1	ENSG00000012817	19710376	19710472	19709451	19709809	19709451	19710260	52.3	124.0	62	53	0.54
+contig	strand	event_id	gene_name	exon1_start	exon1_end	intron_start	intron_end	exon2_start	exon2_end	Aligned.sortedByCoord.out:exon1_cov	Aligned.sortedByCoord.out:intron_cov	Aligned.sortedByCoord.out:exon2_cov	Aligned.sortedByCoord.out:intron_conf	Aligned.sortedByCoord.out:psi
+Y	-	intron_retention_1	ENSG00000012817	19706441	19706640	19706641	19706793	19706794	19706863	211.3	68.2	226.2	158	0.30
+
+RMATS:
+
+ID	GeneID	geneSymbol	chr	strand	longExonStart_0base	longExonEnd	shortES	shortEE	flankingES	flankingEE
+0	"ENSG00000012817"	"KDM5D"	chrY	-	19709450	19710260	19709450	19709809	19710375	19710472
+ID	GeneID	geneSymbol	chr	strand	riExonStart_0base	riExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000012817"	"KDM5D"	chrY	-	19706440	19706863	19706440	19706640	19706793	19706863

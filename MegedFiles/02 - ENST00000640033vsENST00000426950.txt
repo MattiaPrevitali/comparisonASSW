@@ -1,0 +1,17 @@
+Trascritti: ENST00000640033 e ENST00000426950
+
+ASGAL:
+
+Type,Start,End,Support,Transcripts
+IR,9337597,9337875,714,ENST00000426950
+Type,Start,End,Support,Transcripts
+IR,9337597,9337875,355,ENST00000426950
+
+SPLADDER:
+
+contig	strand	event_id	gene_name	exon1_start	exon1_end	intron_start	intron_end	exon2_start	exon2_end	Aligned.sortedByCoord.out:exon1_cov	Aligned.sortedByCoord.out:intron_cov	Aligned.sortedByCoord.out:exon2_cov	Aligned.sortedByCoord.out:intron_conf	Aligned.sortedByCoord.out:psi
+Y	+	intron_retention_1	ENSG00000233803	9337510	9337596	9337597	9337875	9337876	9338013	362.9	259.3	777.6	389	0.40
+
+RMATS:
+
+[non trovato]

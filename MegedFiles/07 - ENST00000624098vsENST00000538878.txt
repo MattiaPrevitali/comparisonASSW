@@ -1,0 +1,28 @@
+Trascritti: ENST00000624098 e ENST00000538878
+
+ASGAL:
+
+Type,Start,End,Support,Transcripts
+ES,13249883,13260277,60,ENST00000538878
+A5,13336336,13355374,99,ENST00000538878
+
+Type,Start,End,Support,Transcripts
+ES,13249883,13260277,29,ENST00000538878
+A5,13336336,13355374,48,ENST00000538878
+
+Type,Start,End,Support,Transcripts
+ES,13357970,13359766,66,ENST00000624098
+
+Type,Start,End,Support,Transcripts
+ES,13357970,13359766,30,ENST00000624098
+
+SPLADDER:
+
+contig	strand	event_id	gene_name	exon_pre_start	exon_pre_end	exon_start	exon_end	exon_aft_start	exon_aft_end	Aligned.sortedByCoord.out:exon_pre_cov	Aligned.sortedByCoord.out:exon_cov	Aligned.sortedByCoord.out:exon_aft_cov	Aligned.sortedByCoord.out:intron_pre_conf	Aligned.sortedByCoord.out:intron_aft_conf	Aligned.sortedByCoord.out:intron_skip_conf	Aligned.sortedByCoord.out:psi
+Y	-	exon_skip_1	ENSG00000183878	13357877	13357969	13359088	13359222	13359767	13359986	121.1	73.6	119.1	86	72	39	0.65
+
+RMATS:
+
+ID	GeneID	geneSymbol	chr	strand	exonStart_0base	exonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000183878"	"UTY"	chrY	-	13251016	13251187	13248378	13249882	13260277	13260404
+1	"ENSG00000183878"	"UTY"	chrY	-	13359087	13359222	13357876	13357969	13359766	13359986

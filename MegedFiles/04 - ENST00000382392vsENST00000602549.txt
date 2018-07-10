@@ -1,0 +1,29 @@
+Trascritti: ENST00000382392 e ENST00000602549
+
+ASGAL:
+
+Type,Start,End,Support,Transcripts
+ES,24626163,24631193,217,ENST00000382392
+A5,24638797,24638885,404,ENST00000382392
+
+Type,Start,End,Support,Transcripts
+ES,24626163,24631193,422,ENST00000382392
+A5,24638797,24638885,949,ENST00000382392
+
+Type,Start,End,Support,Transcripts
+A5,24638792,24638885,846,ENST00000602549
+
+Type,Start,End,Support,Transcripts
+A5,24638792,24638885,387,ENST00000602549
+
+SPLADDER:
+
+contig	strand	event_id	gene_name	exon_const_start	exon_const_end	exon_alt1_start	exon_alt1_end	exon_alt2_start	exon_alt2_end	Aligned.sortedByCoord.out:exon_diff_cov	Aligned.sortedByCoord.out:exon_const_cov	Aligned.sortedByCoord.out:intron1_conf	Aligned.sortedByCoord.out:intron2_conf	Aligned.sortedByCoord.out:psi
+Y	+	alt_5prime_1	ENSG00000183795	24638886	24639148	24638667	24638791	24638667	24638796	694.6	1256.3	564	657	0.46
+contig	strand	event_id	gene_name	exon_pre_start	exon_pre_end	exon_start	exon_end	exon_aft_start	exon_aft_end	Aligned.sortedByCoord.out:exon_pre_cov	Aligned.sortedByCoord.out:exon_cov	Aligned.sortedByCoord.out:exon_aft_cov	Aligned.sortedByCoord.out:intron_pre_conf	Aligned.sortedByCoord.out:intron_aft_conf	Aligned.sortedByCoord.out:intron_skip_conf	Aligned.sortedByCoord.out:psi
+Y	+	exon_skip_1	ENSG00000183795	24626044	24626162	24628222	24628339	24631194	24631299	572.3	250.9	624.3	245	243	299	0.45
+
+RMATS:
+
+ID	GeneID	geneSymbol	chr	strand	exonStart_0base	exonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000183795"	"BPY2B"	chrY	+	24628221	24628339	24626043	24626162	24631193	24631299
