@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	exonStart_0base	exonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000183795"	"BPY2B"	chrY	+	24628221	24628339	24626043	24626162	24631193	24631299
