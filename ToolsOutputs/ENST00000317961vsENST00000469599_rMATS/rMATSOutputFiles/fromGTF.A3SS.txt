@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	longExonStart_0base	longExonEnd	shortES	shortEE	flankingES	flankingEE
+0	"ENSG00000012817"	"KDM5D"	chrY	-	19709450	19710260	19709450	19709809	19710375	19710472

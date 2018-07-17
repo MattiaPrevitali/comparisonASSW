@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	riExonStart_0base	riExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000012817"	"KDM5D"	chrY	-	19706440	19706863	19706440	19706640	19706793	19706863
