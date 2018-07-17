@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	longExonStart_0base	longExonEnd	shortES	shortEE	flankingES	flankingEE
+0	"ENSG00000233803"	"TSPY4"	chrY	+	9339280	9339373	9339291	9339373	9339039	9339185
