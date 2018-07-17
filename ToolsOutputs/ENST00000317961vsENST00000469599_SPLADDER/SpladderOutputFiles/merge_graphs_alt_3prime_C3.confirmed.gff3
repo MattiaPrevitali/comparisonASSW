@@ -1,0 +1,8 @@
+##gff-version 3
+Y	alt_3prime	gene	19709451	19710472	.	-	.	ID=alt_3prime.1;GeneName="ENSG00000012817"
+Y	alt_3prime	mRNA	19709451	19710472	.	-	.	ID=alt_3prime.1_iso1;Parent=alt_3prime.1;GeneName="ENSG00000012817"
+Y	alt_3prime	exon	19709451	19709809	.	-	.	Parent=alt_3prime.1_iso1
+Y	alt_3prime	exon	19710376	19710472	.	-	.	Parent=alt_3prime.1_iso1
+Y	alt_3prime	mRNA	19709451	19710472	.	-	.	ID=alt_3prime.1_iso2;Parent=alt_3prime.1;GeneName="ENSG00000012817"
+Y	alt_3prime	exon	19709451	19710260	.	-	.	Parent=alt_3prime.1_iso2
+Y	alt_3prime	exon	19710376	19710472	.	-	.	Parent=alt_3prime.1_iso2
