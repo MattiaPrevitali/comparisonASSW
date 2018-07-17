@@ -1,0 +1,8 @@
+##gff-version 3
+Y	alt_5prime	gene	24638667	24639148	.	+	.	ID=alt_5prime.1;GeneName="ENSG00000183795"
+Y	alt_5prime	mRNA	24638667	24639148	.	+	.	ID=alt_5prime.1_iso1;Parent=alt_5prime.1;GeneName="ENSG00000183795"
+Y	alt_5prime	exon	24638667	24638791	.	+	.	Parent=alt_5prime.1_iso1
+Y	alt_5prime	exon	24638886	24639148	.	+	.	Parent=alt_5prime.1_iso1
+Y	alt_5prime	mRNA	24638667	24639148	.	+	.	ID=alt_5prime.1_iso2;Parent=alt_5prime.1;GeneName="ENSG00000183795"
+Y	alt_5prime	exon	24638667	24638796	.	+	.	Parent=alt_5prime.1_iso2
+Y	alt_5prime	exon	24638886	24639148	.	+	.	Parent=alt_5prime.1_iso2
