@@ -1,0 +1,9 @@
+##gff-version 3
+Y	exon_skip	gene	13357877	13359986	.	-	.	ID=exon_skip.1;GeneName="ENSG00000183878"
+Y	exon_skip	mRNA	13357877	13359986	.	-	.	ID=exon_skip.1_iso1;Parent=exon_skip.1;GeneName="ENSG00000183878"
+Y	exon_skip	exon	13357877	13357969	.	-	.	Parent=exon_skip.1_iso1
+Y	exon_skip	exon	13359767	13359986	.	-	.	Parent=exon_skip.1_iso1
+Y	exon_skip	mRNA	13357877	13359986	.	-	.	ID=exon_skip.1_iso2;Parent=exon_skip.1;GeneName="ENSG00000183878"
+Y	exon_skip	exon	13357877	13357969	.	-	.	Parent=exon_skip.1_iso2
+Y	exon_skip	exon	13359088	13359222	.	-	.	Parent=exon_skip.1_iso2
+Y	exon_skip	exon	13359767	13359986	.	-	.	Parent=exon_skip.1_iso2

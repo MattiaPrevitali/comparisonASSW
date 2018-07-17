@@ -1,0 +1,16 @@
+### ../STAR/STAR-2.6.0a/bin/Linux_x86_64/STAR   --runMode genomeGenerate   --runThreadN 1   --genomeDir ENST00000383036vsENST00000215479_SPLADDER/SampleFiles/StarIndexes   --genomeFastaFiles ../FastaFiles/Homo_sapiens.GRCh38.dna.chromosome.Y.fa      --sjdbGTFfile ../GTFFiles/Homo_sapiens.CHRY.gtf   --sjdbOverhang 100
+### GstrandBit 
+versionGenome	20201
+genomeFastaFiles	../FastaFiles/Homo_sapiens.GRCh38.dna.chromosome.Y.fa 
+genomeSAindexNbases	14
+genomeChrBinNbits	18
+genomeSAsparseD	1
+sjdbOverhang	100
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	../GTFFiles/Homo_sapiens.CHRY.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	57763899 197908882

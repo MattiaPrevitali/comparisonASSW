@@ -1,0 +1,7 @@
+##gff-version 3
+Y	intron_retention	gene	9337510	9338013	.	+	.	ID=intron_retention.1;GeneName="ENSG00000233803"
+Y	intron_retention	mRNA	9337510	9338013	.	+	.	ID=intron_retention.1_iso1;Parent=intron_retention.1;GeneName="ENSG00000233803"
+Y	intron_retention	exon	9337510	9337596	.	+	.	Parent=intron_retention.1_iso1
+Y	intron_retention	exon	9337876	9338013	.	+	.	Parent=intron_retention.1_iso1
+Y	intron_retention	mRNA	9337510	9338013	.	+	.	ID=intron_retention.1_iso2;Parent=intron_retention.1;GeneName="ENSG00000233803"
+Y	intron_retention	exon	9337510	9338013	.	+	.	Parent=intron_retention.1_iso2

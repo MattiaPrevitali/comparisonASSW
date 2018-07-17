@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	exonStart_0base	exonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+0	"ENSG00000099721"	"AMELY"	chrY	-	6868867	6868909	6868731	6868776	6870005	6870053

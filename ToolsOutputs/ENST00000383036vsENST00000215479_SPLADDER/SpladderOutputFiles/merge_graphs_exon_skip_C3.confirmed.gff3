@@ -1,0 +1,9 @@
+##gff-version 3
+Y	exon_skip	gene	6868732	6870053	.	-	.	ID=exon_skip.1;GeneName="ENSG00000099721"
+Y	exon_skip	mRNA	6868732	6870053	.	-	.	ID=exon_skip.1_iso1;Parent=exon_skip.1;GeneName="ENSG00000099721"
+Y	exon_skip	exon	6868732	6868776	.	-	.	Parent=exon_skip.1_iso1
+Y	exon_skip	exon	6870006	6870053	.	-	.	Parent=exon_skip.1_iso1
+Y	exon_skip	mRNA	6868732	6870053	.	-	.	ID=exon_skip.1_iso2;Parent=exon_skip.1;GeneName="ENSG00000099721"
+Y	exon_skip	exon	6868732	6868776	.	-	.	Parent=exon_skip.1_iso2
+Y	exon_skip	exon	6868868	6868909	.	-	.	Parent=exon_skip.1_iso2
+Y	exon_skip	exon	6870006	6870053	.	-	.	Parent=exon_skip.1_iso2
