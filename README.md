@@ -3,7 +3,10 @@ Output of three software to detect alternative splicing events.
 
 ## Abstract
 
-[... read report of this study ...]
+The target of this study is compare three softwares. The main goal of these tools is detect alternative splicing events.
+The analized softwares are ASGAL, SplAdder and rMATS. It was important harmonize the input files for each analized software. We used gene annotation file (GTF format), genome reference (FASTA format) and RNA-Seq samples simulated by RNASeqReadSimulator.
+We considere the Y chromosome and some easy AS events and some complex AS events.
+We suggest reading RelazioneFinale_MattiaPrevitali_807564.pdf to understand what has been done.
 
 ## Content
 
